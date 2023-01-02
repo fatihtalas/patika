@@ -1,0 +1,15 @@
+C:\git\Koleksiyonlar_Soru_1\bin\Debug\net6.0\Koleksiyonlar_Soru_1.exe
+C:\git\Koleksiyonlar_Soru_1\bin\Debug\net6.0\Koleksiyonlar_Soru_1.deps.json
+C:\git\Koleksiyonlar_Soru_1\bin\Debug\net6.0\Koleksiyonlar_Soru_1.runtimeconfig.json
+C:\git\Koleksiyonlar_Soru_1\bin\Debug\net6.0\Koleksiyonlar_Soru_1.dll
+C:\git\Koleksiyonlar_Soru_1\bin\Debug\net6.0\Koleksiyonlar_Soru_1.pdb
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.csproj.AssemblyReference.cache
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.AssemblyInfoInputs.cache
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.AssemblyInfo.cs
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.csproj.CoreCompileInputs.cache
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.dll
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\refint\Koleksiyonlar_Soru_1.dll
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.pdb
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\Koleksiyonlar_Soru_1.genruntimeconfig.cache
+C:\git\Koleksiyonlar_Soru_1\obj\Debug\net6.0\ref\Koleksiyonlar_Soru_1.dll
