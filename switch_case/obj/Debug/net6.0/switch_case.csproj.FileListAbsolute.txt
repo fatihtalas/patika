@@ -1,0 +1,15 @@
+C:\git\switch_case\obj\Debug\net6.0\switch_case.csproj.AssemblyReference.cache
+C:\git\switch_case\obj\Debug\net6.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfoInputs.cache
+C:\git\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfo.cs
+C:\git\switch_case\obj\Debug\net6.0\switch_case.csproj.CoreCompileInputs.cache
+C:\git\switch_case\bin\Debug\net6.0\switch_case.exe
+C:\git\switch_case\bin\Debug\net6.0\switch_case.deps.json
+C:\git\switch_case\bin\Debug\net6.0\switch_case.runtimeconfig.json
+C:\git\switch_case\bin\Debug\net6.0\switch_case.dll
+C:\git\switch_case\bin\Debug\net6.0\switch_case.pdb
+C:\git\switch_case\obj\Debug\net6.0\switch_case.dll
+C:\git\switch_case\obj\Debug\net6.0\refint\switch_case.dll
+C:\git\switch_case\obj\Debug\net6.0\switch_case.pdb
+C:\git\switch_case\obj\Debug\net6.0\switch_case.genruntimeconfig.cache
+C:\git\switch_case\obj\Debug\net6.0\ref\switch_case.dll
