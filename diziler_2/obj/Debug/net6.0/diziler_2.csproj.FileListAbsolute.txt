@@ -1,0 +1,15 @@
+C:\git\diziler_2\bin\Debug\net6.0\diziler_2.exe
+C:\git\diziler_2\bin\Debug\net6.0\diziler_2.deps.json
+C:\git\diziler_2\bin\Debug\net6.0\diziler_2.runtimeconfig.json
+C:\git\diziler_2\bin\Debug\net6.0\diziler_2.dll
+C:\git\diziler_2\bin\Debug\net6.0\diziler_2.pdb
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.csproj.AssemblyReference.cache
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.AssemblyInfoInputs.cache
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.AssemblyInfo.cs
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.csproj.CoreCompileInputs.cache
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.dll
+C:\git\diziler_2\obj\Debug\net6.0\refint\diziler_2.dll
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.pdb
+C:\git\diziler_2\obj\Debug\net6.0\diziler_2.genruntimeconfig.cache
+C:\git\diziler_2\obj\Debug\net6.0\ref\diziler_2.dll
