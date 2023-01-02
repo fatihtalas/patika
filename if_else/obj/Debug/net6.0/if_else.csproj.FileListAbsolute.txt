@@ -1,0 +1,15 @@
+C:\git\if_else\bin\Debug\net6.0\if_else.exe
+C:\git\if_else\bin\Debug\net6.0\if_else.deps.json
+C:\git\if_else\bin\Debug\net6.0\if_else.runtimeconfig.json
+C:\git\if_else\bin\Debug\net6.0\if_else.dll
+C:\git\if_else\bin\Debug\net6.0\if_else.pdb
+C:\git\if_else\obj\Debug\net6.0\if_else.csproj.AssemblyReference.cache
+C:\git\if_else\obj\Debug\net6.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\if_else\obj\Debug\net6.0\if_else.AssemblyInfoInputs.cache
+C:\git\if_else\obj\Debug\net6.0\if_else.AssemblyInfo.cs
+C:\git\if_else\obj\Debug\net6.0\if_else.csproj.CoreCompileInputs.cache
+C:\git\if_else\obj\Debug\net6.0\if_else.dll
+C:\git\if_else\obj\Debug\net6.0\refint\if_else.dll
+C:\git\if_else\obj\Debug\net6.0\if_else.pdb
+C:\git\if_else\obj\Debug\net6.0\if_else.genruntimeconfig.cache
+C:\git\if_else\obj\Debug\net6.0\ref\if_else.dll
