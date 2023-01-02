@@ -1,0 +1,15 @@
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.csproj.AssemblyReference.cache
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.AssemblyInfoInputs.cache
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.AssemblyInfo.cs
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.csproj.CoreCompileInputs.cache
+C:\git\c101odev1\bin\Debug\net6.0\c101odev1.exe
+C:\git\c101odev1\bin\Debug\net6.0\c101odev1.deps.json
+C:\git\c101odev1\bin\Debug\net6.0\c101odev1.runtimeconfig.json
+C:\git\c101odev1\bin\Debug\net6.0\c101odev1.dll
+C:\git\c101odev1\bin\Debug\net6.0\c101odev1.pdb
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.dll
+C:\git\c101odev1\obj\Debug\net6.0\refint\c101odev1.dll
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.pdb
+C:\git\c101odev1\obj\Debug\net6.0\c101odev1.genruntimeconfig.cache
+C:\git\c101odev1\obj\Debug\net6.0\ref\c101odev1.dll

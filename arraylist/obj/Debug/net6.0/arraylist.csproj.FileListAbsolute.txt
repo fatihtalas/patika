@@ -1,0 +1,15 @@
+C:\git\arraylist\bin\Debug\net6.0\arraylist.exe
+C:\git\arraylist\bin\Debug\net6.0\arraylist.deps.json
+C:\git\arraylist\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\git\arraylist\bin\Debug\net6.0\arraylist.dll
+C:\git\arraylist\bin\Debug\net6.0\arraylist.pdb
+C:\git\arraylist\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+C:\git\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\git\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\git\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\git\arraylist\obj\Debug\net6.0\arraylist.dll
+C:\git\arraylist\obj\Debug\net6.0\refint\arraylist.dll
+C:\git\arraylist\obj\Debug\net6.0\arraylist.pdb
+C:\git\arraylist\obj\Debug\net6.0\arraylist.genruntimeconfig.cache
+C:\git\arraylist\obj\Debug\net6.0\ref\arraylist.dll
