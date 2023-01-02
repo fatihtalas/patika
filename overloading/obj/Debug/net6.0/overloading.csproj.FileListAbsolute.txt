@@ -1,0 +1,15 @@
+C:\git\overloading\bin\Debug\net6.0\overloading.exe
+C:\git\overloading\bin\Debug\net6.0\overloading.deps.json
+C:\git\overloading\bin\Debug\net6.0\overloading.runtimeconfig.json
+C:\git\overloading\bin\Debug\net6.0\overloading.dll
+C:\git\overloading\bin\Debug\net6.0\overloading.pdb
+C:\git\overloading\obj\Debug\net6.0\overloading.csproj.AssemblyReference.cache
+C:\git\overloading\obj\Debug\net6.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\overloading\obj\Debug\net6.0\overloading.AssemblyInfoInputs.cache
+C:\git\overloading\obj\Debug\net6.0\overloading.AssemblyInfo.cs
+C:\git\overloading\obj\Debug\net6.0\overloading.csproj.CoreCompileInputs.cache
+C:\git\overloading\obj\Debug\net6.0\overloading.dll
+C:\git\overloading\obj\Debug\net6.0\refint\overloading.dll
+C:\git\overloading\obj\Debug\net6.0\overloading.pdb
+C:\git\overloading\obj\Debug\net6.0\overloading.genruntimeconfig.cache
+C:\git\overloading\obj\Debug\net6.0\ref\overloading.dll
